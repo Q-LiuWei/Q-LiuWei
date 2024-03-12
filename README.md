@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning linux driver module and rust-lang.
 - 💞️ I’m looking to collaborate on linux kernel virt and virtio
 - 📫 quic_wliu8@quicinc.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Bicycle, Badminton and coding
+- ⚡ Fun fact: Bicycle, Badminton and Coding
 
 <!---
 Q-LiuWei/Q-LiuWei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
